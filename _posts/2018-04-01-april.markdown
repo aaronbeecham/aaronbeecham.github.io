@@ -1,0 +1,120 @@
+---
+layout: post
+title:  "APRIL 2018"
+date:   2018-04-01 11:50:53 +1000
+categories: jekyll update
+---
+### USE COUNT - 802
+
+<br/>
+<br/>
+
+### Installations
+Installing our software at a newly signed up location.
+
+| TOTAL THIS MONTH  | 54 |
+| --- | --- |
+| PREVIOUS MONTH  | 83  |
+
+![]({{ "/images/april2018/april2018-install.jpg" }})  
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+Fixing a POS or Dispensary reporting related outage.
+
+| TOTAL THIS MONTH  | 200 |
+| --- | --- |
+| PREVIOUS MONTH  | 172 |
+
+![]({{ "/images/april2018/april2018-dataout.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.
+
+| TOTAL THIS MONTH  | 31 |
+| --- | --- |
+| PREVIOUS MONTH  | 82 |
+
+![]({{ "/images/april2018/april2018-loyout.jpg" }})  
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events.
+
+| TOTAL THIS MONTH  | 68 |
+| --- | --- |
+| PREVIOUS MONTH  | 98 |
+
+![]({{ "/images/april2018/april2018-general.jpg" }})  
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.
+
+| TOTAL THIS MONTH  | 138 |
+| --- | --- |
+| PREVIOUS MONTH  | 117 |
+
+![]({{ "/images/april2018/april2018-decline.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Admin
+Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.
+
+| TOTAL THIS MONTH  | 105 |
+| --- | --- |
+| PREVIOUS MONTH  | 194 |
+
+![]({{ "/images/april2018/april2018-loyadmin.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Installs 
+All recorded new installations for Loyalty. <br/>There were 2 Loyalty cancelations recorded this month.
+
+| TOTAL THIS MONTH  | 7 |
+| --- | --- |
+| PREVIOUS MONTH  | 70 |
+
+General Loyalty Installs | TWCM Loyalty Installs
+
+![]({{ "/images/april2018/april2018-loy-general.jpg" }}) | ![]({{ "/images/april2018/april2018-loy-twcm.jpg" }})  
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 126 |
+| --- | --- |
+| PREVIOUS MONTH  | 150 |
+
+![]({{ "/images/april2018/april2018-qa.jpg" }})  
+
+<br/>
+<br/>
+
+# Script Changes for April
+
+Only two significant changes have been made to the script this month. (Outside of general bug fixing and performance improvements)
+
+Staff Points is a new addition that allows everyone to see how they are comparing against everyone else for the current week. It uses the same point system we’ve had in place for all point counting.
+
+![]({{ "/images/april2018/change1.png" }})  
+
+Alongside that, I’ve also added a section that allows you to check the raw logs for everyone. This supplies everything from date and time, to the site code and task achieved.
+
+![]({{ "/images/april2018/change2.png" }})  

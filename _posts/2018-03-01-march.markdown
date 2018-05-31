@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "MARCH 2018"
+date:   2018-03-01 11:50:53 +1000
+categories: jekyll update
+---
+### USE COUNT - 1211
+
+<br/>
+<br/>
+
+### Installations
+Installing our software at a newly signed up location.
+
+| TOTAL THIS MONTH  | 83 |
+| --- | --- |
+| PREVIOUS MONTH  | 61 |
+
+![]({{ "/images/march2018/march2018-install.jpg" }})  
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+Fixing a POS or Dispensary reporting related outage.
+
+| TOTAL THIS MONTH  | 172 |
+| --- | --- |
+| PREVIOUS MONTH  | 251 |
+
+![]({{ "/images/march2018/march2018-dataoutage.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.
+
+| TOTAL THIS MONTH  | 82 |
+| --- | --- |
+| PREVIOUS MONTH  | 21 |
+
+![]({{ "/images/march2018/march2018-loytill.jpg" }})  
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events.
+
+| TOTAL THIS MONTH  | 98 |
+| --- | --- |
+| PREVIOUS MONTH  | 11 |
+
+![]({{ "/images/march2018/march2018-general.jpg" }})  
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.
+
+| TOTAL THIS MONTH  | 117 |
+| --- | --- |
+| PREVIOUS MONTH  | 174 |
+
+![]({{ "/images/march2018/march2018-decline.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Admin
+Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.
+
+| TOTAL THIS MONTH  | 194 |
+| --- | --- |
+| PREVIOUS MONTH  | 57 |
+
+![]({{ "/images/march2018/march2018-loy-admin.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Installs (TWCM only)
+All recorded new installations for Loyalty. There is no cancelation comparison for 
+February as the script did not record any cancelations.
+
+| TOTAL THIS MONTH  | 70 |
+| --- | --- |
+| PREVIOUS MONTH  | 4 |
+
+![]({{ "/images/march2018/march2018-loy-twcm.jpg" }})  
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 150 |
+| --- | --- |
+| PREVIOUS MONTH  | 76 |
+
+![]({{ "/images/march2018/march2018-loy-qa.jpg" }})  
+
+<br/>
+<br/>
+
+# Script Changes for March
+
+The first change made for March was a video added in to the script that teaches you how to create a Group account, rather than a PDF. It’s fairly simple, but easy to follow. When the need arises in future, I will try to make more of these as I find them more helpful than a document to read.
+
+![]({{ "/images/march2018/change1.png" }})  
+
+The most major and obvious change, though, was the addition of the TWCM Rollout template. A completely new template built for the TWCM Rollout. This new template alone was used at least 70 times through March. 
+
+
+This template creates logs for Renae for every single site done. These files were categorized by date complete and labeled with each stores unique information and actions completed on each store. This was all done automatically without the need for the support staff to have to manually confirm these details with Renae, saving countless hours.
+
+![]({{ "/images/march2018/change2.png" }})  
+
+![]({{ "/images/march2018/change3.gif" }})  
