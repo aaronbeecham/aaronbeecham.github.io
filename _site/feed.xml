@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-31T14:50:10+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><entry><title type="html">APRIL 2018</title><link href="http://localhost:4000/jekyll/update/2018/04/01/april.html" rel="alternate" type="text/html" title="APRIL 2018" /><published>2018-04-01T11:50:53+10:00</published><updated>2018-04-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/04/01/april</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/01/april.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2018-05-31T16:16:25+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><author><name>Aaron Beecham</name></author><entry><title type="html">APRIL 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/april.html" rel="alternate" type="text/html" title="APRIL 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/april</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/april.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -213,7 +213,7 @@
 
 &lt;p&gt;Alongside that, I’ve also added a section that allows you to check the raw logs for everyone. This supplies everything from date and time, to the site code and task achieved.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/april2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">USE COUNT - 802</summary></entry><entry><title type="html">MARCH 2018</title><link href="http://localhost:4000/jekyll/update/2018/03/01/march.html" rel="alternate" type="text/html" title="MARCH 2018" /><published>2018-03-01T12:50:53+11:00</published><updated>2018-03-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2018/03/01/march</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/01/march.html">&lt;h3 id=&quot;use-count---1211&quot;&gt;USE COUNT - 1211&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/april2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">USE COUNT - 802</summary></entry><entry><title type="html">MARCH 2018</title><link href="http://localhost:4000/jekyll/update/2018/04/03/march.html" rel="alternate" type="text/html" title="MARCH 2018" /><published>2018-04-03T11:50:53+10:00</published><updated>2018-04-03T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/04/03/march</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/03/march.html">&lt;h3 id=&quot;use-count---1211&quot;&gt;USE COUNT - 1211&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -259,7 +259,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-dataoutage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-dataout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -282,7 +282,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-loytill.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-loytil.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -300,7 +300,7 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;111&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -358,7 +358,7 @@
 
 &lt;h3 id=&quot;loyalty-installs-twcm-only&quot;&gt;Loyalty Installs (TWCM only)&lt;/h3&gt;
 &lt;p&gt;All recorded new installations for Loyalty. There is no cancelation comparison for 
-February as the script did not record any cancelations.&lt;/p&gt;
+March as the script did not record any cancelations.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -375,7 +375,7 @@ February as the script did not record any cancelations.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-loy-twcm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-twcm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -398,7 +398,7 @@ February as the script did not record any cancelations.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-loy-qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/march2018/march2018-qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -415,7 +415,412 @@ February as the script did not record any cancelations.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/march2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/march2018/change3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">USE COUNT - 1211</summary></entry><entry><title type="html">FEBRUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/02/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2017" /><published>2017-02-01T12:50:53+11:00</published><updated>2017-02-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/02/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/01/february.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/march2018/change3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">USE COUNT - 1211</summary></entry><entry><title type="html">FEBRUARY 2018</title><link href="http://localhost:4000/jekyll/update/2018/03/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2018" /><published>2018-03-01T12:50:53+11:00</published><updated>2018-03-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2018/03/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/01/february.html">&lt;h3 id=&quot;use-count---893&quot;&gt;USE COUNT - 893&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;installations&quot;&gt;Installations&lt;/h3&gt;
+&lt;p&gt;Installing our software at a newly signed up location.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;61&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;35&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/feb2018-install.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;data-outage-fixes&quot;&gt;Data Outage Fixes&lt;/h3&gt;
+&lt;p&gt;Fixing a POS or Dispensary reporting related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;251&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;155&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/dataout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-till-outage&quot;&gt;Loyalty Till Outage&lt;/h3&gt;
+&lt;p&gt;Fixing a Loyalty related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;21&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/loy-till.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;general-usage&quot;&gt;General Usage&lt;/h3&gt;
+&lt;p&gt;Non-connection related events.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;111&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;79&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/general.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;connections-declined&quot;&gt;Connections Declined&lt;/h3&gt;
+&lt;p&gt;Failure to acquire a connection based on the conversation or technical reasons.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;174&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;101&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/decline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-admin&quot;&gt;Loyalty Admin&lt;/h3&gt;
+&lt;p&gt;Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;57&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;99&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/loy-admin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-installs&quot;&gt;Loyalty Installs&lt;/h3&gt;
+&lt;p&gt;All recorded new installations for Loyalty. There is no cancelation comparison for 
+February as the script did not record any cancelations.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/loy-in.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qa-checks&quot;&gt;QA Checks&lt;/h3&gt;
+&lt;p&gt;Checking the pharmacy facing website to ensure accurate data is reported.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;76&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;script-changes-for-february&quot;&gt;Script Changes for February&lt;/h1&gt;
+
+&lt;p&gt;There have been two major changes to script during February.&lt;/p&gt;
+
+&lt;p&gt;The first change was automatic email reporting of ACN and API Data Outage fixes.&lt;/p&gt;
+
+&lt;p&gt;Previously it has been the responsibility of the Support Staff to notify the ACN and API leads of any reinstalls for these clients. The script will now automatically notify the support member when they are doing an ACN or API reinstall/change and will generate an email to be sent to the appropriate person. This should ensure we are correctly recording changes for these clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2018/change1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second major update was for Sanofi Cancellations. When canceling reporting for a Sanofi store, this prompt will automatically show with a confirmation of the store details.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Once confirming the details, an email is automatically generated to be sent to the appropriate Rep for the store, alerting them of the cancelation.&lt;/td&gt;
+      &lt;td&gt;There have also been small changes to the process lists as well. A general QA Process chart and Sanofi QA Process chart was also added to the process charts listing.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/feb2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/feb2018/change3.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">USE COUNT - 893</summary></entry><entry><title type="html">JANUARY 2018</title><link href="http://localhost:4000/jekyll/update/2018/02/08/january.html" rel="alternate" type="text/html" title="JANUARY 2018" /><published>2018-02-08T13:35:53+11:00</published><updated>2018-02-08T13:35:53+11:00</updated><id>http://localhost:4000/jekyll/update/2018/02/08/january</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/08/january.html">&lt;h3 id=&quot;use-count---606&quot;&gt;USE COUNT - 606&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;installations&quot;&gt;Installations&lt;/h3&gt;
+&lt;p&gt;Installing our software at a newly signed up location.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;35&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/install.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;data-outage-fixes&quot;&gt;Data Outage Fixes&lt;/h3&gt;
+&lt;p&gt;Fixing a POS or Dispensary reporting related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;155&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/dataout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-till-outage&quot;&gt;Loyalty Till Outage&lt;/h3&gt;
+&lt;p&gt;Fixing a Loyalty related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;13&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/tillout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;general-usage&quot;&gt;General Usage&lt;/h3&gt;
+&lt;p&gt;Non-connection related events.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;79&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;55&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/general.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;connections-declined&quot;&gt;Connections Declined&lt;/h3&gt;
+&lt;p&gt;Failure to acquire a connection based on the conversation or technical reasons.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;101&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;74&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/decline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-cancelations-vs-installations&quot;&gt;Loyalty Cancelations vs Installations&lt;/h3&gt;
+&lt;p&gt;A Loyalty related comparison.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Cancelations&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Installations&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;5&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/loy-can-in.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qa-checks&quot;&gt;QA Checks&lt;/h3&gt;
+&lt;p&gt;Checking the pharmacy facing website to ensure accurate data is reported.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;28&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;51&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2018/qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">USE COUNT - 606</summary></entry><entry><title type="html">FEBRUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/03/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2017" /><published>2017-03-01T12:50:53+11:00</published><updated>2017-03-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/03/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/03/01/february.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
 
 &lt;p&gt;Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format.&lt;/p&gt;
 
@@ -479,7 +884,7 @@ February as the script did not record any cancelations.&lt;/p&gt;
 
 &lt;p&gt;QA’s complete is a fairly basic point of information and I’m unsure how useful this statistic is. Though, as expect Aaron and Joel are the top for QA’s. As I was settling in I was doing a lot of QA’s as it was initially difficult to get connections due to only having access to Team Viewer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_qas.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GENERAL PREFACE</summary></entry><entry><title type="html">JANUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/01/21/january.html" rel="alternate" type="text/html" title="JANUARY 2017" /><published>2017-01-21T12:50:53+11:00</published><updated>2017-01-21T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/01/21/january</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/21/january.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_qas.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">GENERAL PREFACE</summary></entry><entry><title type="html">JANUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/02/21/january.html" rel="alternate" type="text/html" title="JANUARY 2017" /><published>2017-02-21T12:50:53+11:00</published><updated>2017-02-21T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/02/21/january</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/21/january.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
 
 &lt;p&gt;Early on in the development of the script I have kept a log of every use. Initially it was for discovering bugs/issues with the script but a side effect was that I had a record of all uses of the script. Realising this information may be useful I’ve decided to write this report covering January’s data.&lt;/p&gt;
 
@@ -514,4 +919,4 @@ February as the script did not record any cancelations.&lt;/p&gt;
 
 &lt;p&gt;Nothing too surprising here. Joel generally handled all the QA’s during January due to his early start no doubt.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/jan2017/jan2017_qas.png&quot; alt=&quot;QAs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GENERAL PREFACE</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/jan2017/jan2017_qas.png&quot; alt=&quot;QAs&quot; /&gt;&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">GENERAL PREFACE</summary></entry></feed>

@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "FEBRUARY 2018"
+date:   2018-03-01 11:50:53 +1000
+categories: jekyll update
+---
+### USE COUNT - 893
+
+<br/>
+<br/>
+
+### Installations
+Installing our software at a newly signed up location.
+
+| TOTAL THIS MONTH  | 61 |
+| --- | --- |
+| PREVIOUS MONTH  | 35 |
+
+![]({{ "/images/feb2018/feb2018-install.jpg" }})
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+Fixing a POS or Dispensary reporting related outage.
+
+| TOTAL THIS MONTH  | 251 |
+| --- | --- |
+| PREVIOUS MONTH  | 155 |
+
+![]({{ "/images/feb2018/dataout.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.
+
+| TOTAL THIS MONTH  | 21 |
+| --- | --- |
+| PREVIOUS MONTH  | 13 |
+
+![]({{ "/images/feb2018/loy-till.jpg" }})
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events.
+
+| TOTAL THIS MONTH  | 111 |
+| --- | --- |
+| PREVIOUS MONTH  | 79 |
+
+![]({{ "/images/feb2018/general.jpg" }})
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.
+
+| TOTAL THIS MONTH  | 174 |
+| --- | --- |
+| PREVIOUS MONTH  | 101 |
+
+![]({{ "/images/feb2018/decline.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Admin
+Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.
+
+| TOTAL THIS MONTH  | 57 |
+| --- | --- |
+| PREVIOUS MONTH  | 99 |
+
+![]({{ "/images/feb2018/loy-admin.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Installs
+All recorded new installations for Loyalty. There is no cancelation comparison for 
+February as the script did not record any cancelations.
+
+| TOTAL THIS MONTH  | 4 |
+| --- | --- |
+| PREVIOUS MONTH  | 5 |
+
+![]({{ "/images/feb2018/loy-in.jpg" }})
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 76 |
+| --- | --- |
+| PREVIOUS MONTH  | 28 |
+
+![]({{ "/images/feb2018/qa.jpg" }})
+
+<br/>
+<br/>
+
+# Script Changes for February
+
+There have been two major changes to script during February. 
+
+The first change was automatic email reporting of ACN and API Data Outage fixes. 
+	
+Previously it has been the responsibility of the Support Staff to notify the ACN and API leads of any reinstalls for these clients. The script will now automatically notify the support member when they are doing an ACN or API reinstall/change and will generate an email to be sent to the appropriate person. This should ensure we are correctly recording changes for these clients.
+
+![]({{ "/images/feb2018/change1.png" }})
+
+The second major update was for Sanofi Cancellations. When canceling reporting for a Sanofi store, this prompt will automatically show with a confirmation of the store details.
+	
+Once confirming the details, an email is automatically generated to be sent to the appropriate Rep for the store, alerting them of the cancelation. | There have also been small changes to the process lists as well. A general QA Process chart and Sanofi QA Process chart was also added to the process charts listing. 
+
+![]({{ "/images/feb2018/change2.png" }}) | ![]({{ "/images/feb2018/change3.png" }}) 

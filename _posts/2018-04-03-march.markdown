@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MARCH 2018"
-date:   2018-03-01 11:50:53 +1000
+date:   2018-04-03 11:50:53 +1000
 categories: jekyll update
 ---
 ### USE COUNT - 1211
@@ -28,7 +28,7 @@ Fixing a POS or Dispensary reporting related outage.
 | --- | --- |
 | PREVIOUS MONTH  | 251 |
 
-![]({{ "/images/march2018/march2018-dataoutage.jpg" }})  
+![]({{ "/images/march2018/march2018-dataout.jpg" }})  
 
 <br/>
 <br/>
@@ -40,7 +40,7 @@ Fixing a Loyalty related outage.
 | --- | --- |
 | PREVIOUS MONTH  | 21 |
 
-![]({{ "/images/march2018/march2018-loytill.jpg" }})  
+![]({{ "/images/march2018/march2018-loytil.jpg" }})  
 
 <br/>
 <br/>
@@ -50,7 +50,7 @@ Non-connection related events.
 
 | TOTAL THIS MONTH  | 98 |
 | --- | --- |
-| PREVIOUS MONTH  | 11 |
+| PREVIOUS MONTH  | 111 |
 
 ![]({{ "/images/march2018/march2018-general.jpg" }})  
 
@@ -83,13 +83,13 @@ Loyalty related interactions. Not necessarily installs or fixes. General Loyalty
 
 ### Loyalty Installs (TWCM only)
 All recorded new installations for Loyalty. There is no cancelation comparison for 
-February as the script did not record any cancelations.
+March as the script did not record any cancelations.
 
 | TOTAL THIS MONTH  | 70 |
 | --- | --- |
 | PREVIOUS MONTH  | 4 |
 
-![]({{ "/images/march2018/march2018-loy-twcm.jpg" }})  
+![]({{ "/images/march2018/march2018-twcm.jpg" }})  
 
 <br/>
 <br/>
@@ -101,7 +101,7 @@ Checking the pharmacy facing website to ensure accurate data is reported.
 | --- | --- |
 | PREVIOUS MONTH  | 76 |
 
-![]({{ "/images/march2018/march2018-loy-qa.jpg" }})  
+![]({{ "/images/march2018/march2018-qa.jpg" }})  
 
 <br/>
 <br/>

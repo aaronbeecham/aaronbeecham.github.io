@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lang: en-GB
 title: SCRIPT REPORT
 email: aaron.beecham@intellipharm.com.au
-description: >- # this means to ignore newlines until "baseurl:"
-  Intellipharm script monthly data report.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/icon-new.png
+description: Intellipharm script monthly data report.
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aaronbeecham.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+
+search: true
 
 # Build settings
 markdown: kramdown
@@ -28,6 +31,10 @@ markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
+
+author:
+  name: Aaron Beecham
+  picture: /images/icon-new.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

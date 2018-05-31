@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "JANUARY 2018"
+date:   2018-02-08 12:35:53 +1000
+categories: jekyll update
+---
+### USE COUNT - 606
+
+<br/>
+<br/>
+
+### Installations
+Installing our software at a newly signed up location.
+
+| TOTAL THIS MONTH  | 35 |
+| --- | --- |
+| PREVIOUS MONTH  | 14 |
+
+![]({{ "/images/jan2018/install.jpg" }})
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+Fixing a POS or Dispensary reporting related outage.
+
+| TOTAL THIS MONTH  | 155 |
+| --- | --- |
+| PREVIOUS MONTH  | 128 |
+
+![]({{ "/images/jan2018/dataout.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.
+
+| TOTAL THIS MONTH  | 13 |
+| --- | --- |
+| PREVIOUS MONTH  | 17 |
+
+![]({{ "/images/jan2018/tillout.jpg" }})
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events.
+
+| TOTAL THIS MONTH  | 79 |
+| --- | --- |
+| PREVIOUS MONTH  | 55 |
+
+![]({{ "/images/jan2018/general.jpg" }})
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.
+
+| TOTAL THIS MONTH  | 101 |
+| --- | --- |
+| PREVIOUS MONTH  | 74 |
+
+![]({{ "/images/jan2018/decline.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Cancelations vs Installations
+A Loyalty related comparison.
+
+| Cancelations | |
+| TOTAL THIS MONTH  | 3 |
+| --- | --- |
+| PREVIOUS MONTH  | 10 |
+
+| Installations | |
+| TOTAL THIS MONTH  | 5 |
+| --- | --- |
+| PREVIOUS MONTH  | 5 |
+
+![]({{ "/images/jan2018/loy-can-in.jpg" }})
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 28 |
+| --- | --- |
+| PREVIOUS MONTH  | 51 |
+
+![]({{ "/images/jan2018/qa.jpg" }})
+
+<br/>
+<br/>
