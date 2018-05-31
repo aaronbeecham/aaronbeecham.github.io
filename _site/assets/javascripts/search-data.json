@@ -1,0 +1,16 @@
+var store = [{
+        "title": "JANUARY 2017",
+        "excerpt":"GENERAL PREFACE Early on in the development of the script I have kept a log of every use. Initially it was for discovering bugs/issues with the script but a side effect was that I had a record of all uses of the script. Realising this information may be useful I’ve...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2017/01/21/january.html"
+      },{
+        "title": "FEBRUARY 2017",
+        "excerpt":"GENERAL PREFACE Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format. One of the main concerns regarding the collected data I had for January was a mislabeling of all Data Outage and Installs under...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2017/02/01/february.html"
+      },{
+        "title": "MAY 2018",
+        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/05/01/may.html"
+      }]

@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "FEBRUARY 2017"
+date:   2017-02-01 11:50:53 +1000
+categories: jekyll update
+---
+# GENERAL PREFACE
+
+Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format.
+
+One of the main concerns regarding the collected data I had for January was a mislabeling of all Data Outage and Installs under a single heading of “General Install”. Unfortunately this was not rectified until late February; as such this report will have a similar issue with the data. It will no longer be an issue in future and the data for both those activities will be separated in to their own charts.
+
+Once again I’d like to urge you to keep in mind that this information doesn't fully reflect productivity, as there are variables that aren't accounted for (like days off) and relies on the technician accurately recording their actions. Following on from this I have looked in to how the script is being used. Of note, some people seem to use the script multiple times for a single instance. I have found some examples where the script has been used twice within minutes for a single issue. This will inflate the numbers of that Technician for no good reason. In some cases, the Technician is also leaving multiple notes on Site IQ for single issues.
+
+While the above is not a massive issue if you are looking for history on a site, it is an issue for accurate data reporting and will misrepresent the numbers for some people. 
+
+The way that the script is recording information is on a very basic level. At the end of each interaction with the script, it will record the date, time, name and action that was taken to a log file on the G drive.
+
+___
+
+# INSTALLS AND DATA OUTAGES
+Again, repeating what has been stated above and in the previous report, all Data Outage tickets and Installs have been lumped together in a single bar graph as there was a labeling error. This has been resolved and will not affect future reports.
+
+The graphs on the left do accurately show Data Outage Fixes, however the General Install columns on the right have mostly got Data Outage Fixes included in them as well.
+
+
+![Installs]({{ "/images/feb2017/feb2017_installs.png"}})  
+
+___
+
+# INSTALLS
+This is an example of what has been stated above. These are the number of install related notes generated since the fix was implemented. This includes all the install notes from the last (roughly) two weeks of February.
+
+![Knockbacks]({{ "/images/feb2017/feb2017_installs2.png"}})
+
+___
+
+# GENERAL FULL TAGS
+
+This information is something that is concerning from an accurate data perspective. Firstly, this information is showing how many people are using the template for “General Full Tags”. This form was created for anything that is NOT related to Data Outages or Installs. I have noticed that some of the comments used with this template are indeed related to Data Outages or Installs.
+
+The end result of this is that #TAGS that should be on notes are not being attached by default and likely omitted entirely as I do not believe the techs using the All Tag form are adding the necessary tags for an Install or Data Fix.
+
+Judging from a workload perspective I would expect this section to have extreme favour towards Brodie using it as his “non dataout/install” work load would be significantly higher than the rest of the support team. Also of note, Ricky has never used this section. Which isn’t unusual, as he would primarily use Loyalty sections, as would Renae, hence her single use.
+
+Finally and most importantly, the main purpose of the All Tags template was to discover if we need specific templates for things we are doing fairly regularly. Unfortunately I’ve not had any suggestions put forward so far, and manually discovering would require reading all the comments left by this section. Though, something to note is that Brodie has suggested I add an identifier for these notes (which is now in place), so we may start to see this in future.
+
+
+![General]({{ "/images/feb2017/feb2017_general.png"}})
+
+___
+
+# KNOCKBACKS AND FAILED CALLS
+
+Knock Backs and Failed Calls are all the recorded notes taken for any call that resulted in no connection. A Knock Back is simply when you make the call but the person at the Pharmacy declines your connection, while a “Phone Rang Out” is quite simply that. Whether the phone simply continues to ring indefinitely or you were able to leave a Voice Mail, they are all under that heading. 
+
+![]({{ "/images/feb2017/feb2017_knock.png"}})
+
+___
+
+# LOYALTY TRANSFERS
+
+This information displays who are generating tickets to be transferred to Renae/Ricky to take over for Loyalty related issues. This includes calls that have been unable to be fixed by the technician (Loyalty Email Escalation) and calls that have had the store request we reinstall (Loyalty Email Reinstallation) due to replaced computers or whatever else it may be.
+
+![]({{ "/images/feb2017/feb2017_loytrans.png"}})
+
+___
+
+# QA's
+
+QA’s complete is a fairly basic point of information and I’m unsure how useful this statistic is. Though, as expect Aaron and Joel are the top for QA’s. As I was settling in I was doing a lot of QA’s as it was initially difficult to get connections due to only having access to Team Viewer.
+
+![]({{ "/images/feb2017/feb2017_qas.png"}}) 

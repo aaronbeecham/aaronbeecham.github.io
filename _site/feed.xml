@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-31T13:39:30+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><entry><title type="html">MAY 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/may.html" rel="alternate" type="text/html" title="MAY 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/may</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/may.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">FEBRUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/02/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2017" /><published>2017-02-01T12:50:53+11:00</published><updated>2017-02-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/02/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/01/february.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
+
+&lt;p&gt;Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format.&lt;/p&gt;
+
+&lt;p&gt;One of the main concerns regarding the collected data I had for January was a mislabeling of all Data Outage and Installs under a single heading of “General Install”. Unfortunately this was not rectified until late February; as such this report will have a similar issue with the data. It will no longer be an issue in future and the data for both those activities will be separated in to their own charts.&lt;/p&gt;
+
+&lt;p&gt;Once again I’d like to urge you to keep in mind that this information doesn’t fully reflect productivity, as there are variables that aren’t accounted for (like days off) and relies on the technician accurately recording their actions. Following on from this I have looked in to how the script is being used. Of note, some people seem to use the script multiple times for a single instance. I have found some examples where the script has been used twice within minutes for a single issue. This will inflate the numbers of that Technician for no good reason. In some cases, the Technician is also leaving multiple notes on Site IQ for single issues.&lt;/p&gt;
+
+&lt;p&gt;While the above is not a massive issue if you are looking for history on a site, it is an issue for accurate data reporting and will misrepresent the numbers for some people.&lt;/p&gt;
+
+&lt;p&gt;The way that the script is recording information is on a very basic level. At the end of each interaction with the script, it will record the date, time, name and action that was taken to a log file on the G drive.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;installs-and-data-outages&quot;&gt;INSTALLS AND DATA OUTAGES&lt;/h1&gt;
+&lt;p&gt;Again, repeating what has been stated above and in the previous report, all Data Outage tickets and Installs have been lumped together in a single bar graph as there was a labeling error. This has been resolved and will not affect future reports.&lt;/p&gt;
+
+&lt;p&gt;The graphs on the left do accurately show Data Outage Fixes, however the General Install columns on the right have mostly got Data Outage Fixes included in them as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_installs.png&quot; alt=&quot;Installs&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;installs&quot;&gt;INSTALLS&lt;/h1&gt;
+&lt;p&gt;This is an example of what has been stated above. These are the number of install related notes generated since the fix was implemented. This includes all the install notes from the last (roughly) two weeks of February.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_installs2.png&quot; alt=&quot;Knockbacks&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;general-full-tags&quot;&gt;GENERAL FULL TAGS&lt;/h1&gt;
+
+&lt;p&gt;This information is something that is concerning from an accurate data perspective. Firstly, this information is showing how many people are using the template for “General Full Tags”. This form was created for anything that is NOT related to Data Outages or Installs. I have noticed that some of the comments used with this template are indeed related to Data Outages or Installs.&lt;/p&gt;
+
+&lt;p&gt;The end result of this is that #TAGS that should be on notes are not being attached by default and likely omitted entirely as I do not believe the techs using the All Tag form are adding the necessary tags for an Install or Data Fix.&lt;/p&gt;
+
+&lt;p&gt;Judging from a workload perspective I would expect this section to have extreme favour towards Brodie using it as his “non dataout/install” work load would be significantly higher than the rest of the support team. Also of note, Ricky has never used this section. Which isn’t unusual, as he would primarily use Loyalty sections, as would Renae, hence her single use.&lt;/p&gt;
+
+&lt;p&gt;Finally and most importantly, the main purpose of the All Tags template was to discover if we need specific templates for things we are doing fairly regularly. Unfortunately I’ve not had any suggestions put forward so far, and manually discovering would require reading all the comments left by this section. Though, something to note is that Brodie has suggested I add an identifier for these notes (which is now in place), so we may start to see this in future.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_general.png&quot; alt=&quot;General&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;knockbacks-and-failed-calls&quot;&gt;KNOCKBACKS AND FAILED CALLS&lt;/h1&gt;
+
+&lt;p&gt;Knock Backs and Failed Calls are all the recorded notes taken for any call that resulted in no connection. A Knock Back is simply when you make the call but the person at the Pharmacy declines your connection, while a “Phone Rang Out” is quite simply that. Whether the phone simply continues to ring indefinitely or you were able to leave a Voice Mail, they are all under that heading.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_knock.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;loyalty-transfers&quot;&gt;LOYALTY TRANSFERS&lt;/h1&gt;
+
+&lt;p&gt;This information displays who are generating tickets to be transferred to Renae/Ricky to take over for Loyalty related issues. This includes calls that have been unable to be fixed by the technician (Loyalty Email Escalation) and calls that have had the store request we reinstall (Loyalty Email Reinstallation) due to replaced computers or whatever else it may be.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_loytrans.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;qas&quot;&gt;QA’s&lt;/h1&gt;
+
+&lt;p&gt;QA’s complete is a fairly basic point of information and I’m unsure how useful this statistic is. Though, as expect Aaron and Joel are the top for QA’s. As I was settling in I was doing a lot of QA’s as it was initially difficult to get connections due to only having access to Team Viewer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/feb2017/feb2017_qas.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GENERAL PREFACE</summary></entry><entry><title type="html">JANUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/01/21/january.html" rel="alternate" type="text/html" title="JANUARY 2017" /><published>2017-01-21T12:50:53+11:00</published><updated>2017-01-21T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/01/21/january</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/21/january.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
+
+&lt;p&gt;Early on in the development of the script I have kept a log of every use. Initially it was for discovering bugs/issues with the script but a side effect was that I had a record of all uses of the script. Realising this information may be useful I’ve decided to write this report covering January’s data.&lt;/p&gt;
+
+&lt;p&gt;Keep in mind that this information doesn’t fully reflect productivity, as there are variables that aren’t accounted for (like days off) and relies on the technician accurately recording their actions.&lt;/p&gt;
+
+&lt;p&gt;The way that the script is recording information is on a very basic level. At the end of each interaction with the script, it will record the date, time, name and action that was taken to a log file on the G drive. Unfortunately I only have information from November onwards.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;installs-and-data-outages&quot;&gt;INSTALLS AND DATA OUTAGES&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;For January there was a mislabel in the recording that caused all Installations and all Data Outage fixes to be named “General Install”. Keep that in mind while looking at this chart.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The “General Full Tags” is an option in the script that allows you to create a basic template if you don’t want to use the Install or Data Out template options. It is supposed to be used when you’re not sure if it would go in to the Install or Data Out categories. I believe this section is being used far more than it should be.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2017/jan2017_installs.png&quot; alt=&quot;Installs&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;knock-backs-and-failed-calls&quot;&gt;KNOCK BACKS AND FAILED CALLS&lt;/h1&gt;
+&lt;p&gt;Knock Backs and Failed Calls are all the recorded notes taken for any call that resulted in no connection. A Knock Back is simply when you make the call but the person at the Pharmacy declines your connection, while a “Phone Rang Out” is quite simply that. Whether the phone simply continues to ring indefinitely or you were able to leave a Voice Mail, they are all under that heading.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2017/jan2017_knockbacks.png&quot; alt=&quot;Knockbacks&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;qas&quot;&gt;QA’s&lt;/h1&gt;
+
+&lt;p&gt;Nothing too surprising here. Joel generally handled all the QA’s during January due to his early start no doubt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jan2017/jan2017_qas.png&quot; alt=&quot;QAs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">GENERAL PREFACE</summary></entry></feed>
