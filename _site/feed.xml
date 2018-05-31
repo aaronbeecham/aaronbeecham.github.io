@@ -1,16 +1,219 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-31T13:39:30+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><entry><title type="html">MAY 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/may.html" rel="alternate" type="text/html" title="MAY 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/may</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/may.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-31T14:17:07+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><entry><title type="html">APRIL 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/april.html" rel="alternate" type="text/html" title="APRIL 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/april</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/april.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3 id=&quot;installations&quot;&gt;Installations&lt;/h3&gt;
+&lt;p&gt;Installing our software at a newly signed up location.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;54&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;83&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">FEBRUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/02/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2017" /><published>2017-02-01T12:50:53+11:00</published><updated>2017-02-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/02/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/01/february.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-install.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;data-outage-fixes&quot;&gt;Data Outage Fixes&lt;/h3&gt;
+&lt;p&gt;Fixing a POS or Dispensary reporting related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;200&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;172&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-dataout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-till-outage&quot;&gt;Loyalty Till Outage&lt;/h3&gt;
+&lt;p&gt;Fixing a Loyalty related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;31&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;82&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-loyout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;general-usage&quot;&gt;General Usage&lt;/h3&gt;
+&lt;p&gt;Non-connection related events.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;68&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;98&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-general.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;connections-declined&quot;&gt;Connections Declined&lt;/h3&gt;
+&lt;p&gt;Failure to acquire a connection based on the conversation or technical reasons.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;138&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;117&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-decline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-admin&quot;&gt;Loyalty Admin&lt;/h3&gt;
+&lt;p&gt;Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;105&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;194&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-loyadmin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-installs&quot;&gt;Loyalty Installs&lt;/h3&gt;
+&lt;p&gt;All recorded new installations for Loyalty. &lt;br /&gt;There were 2 Loyalty cancelations recorded this month.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;7&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;70&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;General Loyalty Installs&lt;/td&gt;
+      &lt;td&gt;TWCM Loyalty Installs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/april2018/april2018-loy-general.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/april2018/april2018-loy-twcm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qa-checks&quot;&gt;QA Checks&lt;/h3&gt;
+&lt;p&gt;Checking the pharmacy facing website to ensure accurate data is reported.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;126&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/april2018-qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;script-changes-for-april&quot;&gt;Script Changes for April&lt;/h1&gt;
+
+&lt;p&gt;Only two significant changes have been made to the script this month. (Outside of general bug fixing and performance improvements)&lt;/p&gt;
+
+&lt;p&gt;Staff Points is a new addition that allows everyone to see how they are comparing against everyone else for the current week. It uses the same point system we’ve had in place for all point counting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/change1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alongside that, I’ve also added a section that allows you to check the raw logs for everyone. This supplies everything from date and time, to the site code and task achieved.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/april2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">USE COUNT - 802</summary></entry><entry><title type="html">FEBRUARY 2017</title><link href="http://localhost:4000/jekyll/update/2017/02/01/february.html" rel="alternate" type="text/html" title="FEBRUARY 2017" /><published>2017-02-01T12:50:53+11:00</published><updated>2017-02-01T12:50:53+11:00</updated><id>http://localhost:4000/jekyll/update/2017/02/01/february</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/02/01/february.html">&lt;h1 id=&quot;general-preface&quot;&gt;GENERAL PREFACE&lt;/h1&gt;
 
 &lt;p&gt;Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format.&lt;/p&gt;
 

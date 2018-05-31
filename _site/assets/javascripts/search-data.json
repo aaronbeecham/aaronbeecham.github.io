@@ -9,8 +9,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/2017/02/01/february.html"
       },{
-        "title": "MAY 2018",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "APRIL 2018",
+        "excerpt":"USE COUNT - 802 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 54 PREVIOUS MONTH 83 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 200 PREVIOUS MONTH 172 Loyalty Till Outage Fixing a Loyalty related outage. TOTAL THIS MONTH...","categories": ["jekyll","update"],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2018/05/01/may.html"
+        "url": "http://localhost:4000/jekyll/update/2018/05/01/april.html"
       }]
