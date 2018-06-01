@@ -70,7 +70,7 @@ Store cancelations related to data reporting.
 <br/>
 
 ### Loyalty Installs 
-All recorded new installations for Loyalty. <br/>There were 2 Loyalty cancelations recorded this month.
+All recorded new installations for Loyalty.
 
 | TOTAL THIS MONTH  | 10 |
 | --- | --- |
