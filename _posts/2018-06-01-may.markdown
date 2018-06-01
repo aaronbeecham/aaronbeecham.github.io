@@ -1,0 +1,147 @@
+---
+layout: post
+title:  "MAY 2018"
+date:   2018-06-01 09:00:53 +1000
+categories: jekyll update
+---
+### USE COUNT - 802
+
+<br/>
+<br/>
+
+### Installations
+Installing our software at a newly signed up location.
+
+| TOTAL THIS MONTH  | 49 |
+| --- | --- |
+| PREVIOUS MONTH  | 54  |
+
+![]({{ "/images/may2018/install.jpg" }})  
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+Fixing a POS or Dispensary reporting related outage.
+
+| TOTAL THIS MONTH  | 330 |
+| --- | --- |
+| PREVIOUS MONTH  | 200 |
+
+![]({{ "/images/may2018/dataout.jpg" }})  
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 57 |
+| --- | --- |
+| PREVIOUS MONTH  | 126 |
+
+![]({{ "/images/may2018/qa.jpg" }})  
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events, usually used for Support, rather than Loyalty.<br>This is general administration duties.
+
+| TOTAL THIS MONTH  | 129 |
+| --- | --- |
+| PREVIOUS MONTH  | 68 |
+
+![]({{ "/images/may2018/general.jpg" }})  
+
+<br/>
+<br/>
+
+### Site Cancelations
+Store cancelations related to data reporting.
+
+| TOTAL THIS MONTH  | 62 |
+| --- | --- |
+| PREVIOUS MONTH  | 24 |
+
+![]({{ "/images/may2018/cancel.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Installs 
+All recorded new installations for Loyalty. <br/>There were 2 Loyalty cancelations recorded this month.
+
+| TOTAL THIS MONTH  | 10 |
+| --- | --- |
+| PREVIOUS MONTH  | 7 |
+
+![]({{ "/images/may2018/loy-in.jpg" }})
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.
+
+| TOTAL THIS MONTH  | 27 |
+| --- | --- |
+| PREVIOUS MONTH  | 31 |
+
+![]({{ "/images/may2018/loy-out.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Admin
+Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.
+
+| TOTAL THIS MONTH  | 184 |
+| --- | --- |
+| PREVIOUS MONTH  | 105 |
+
+![]({{ "/images/may2018/loy-admin.jpg" }})  
+
+<br/>
+<br/>
+
+### Loyalty Cancelations
+Store cancelations related to Loyalty.
+
+| TOTAL THIS MONTH  | 11 |
+| --- | --- |
+| PREVIOUS MONTH  | 2 |
+
+![]({{ "/images/may2018/loy-cancel.jpg" }})  
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.<br>Keep in mind that this would include times when a site is being rescheduled.
+
+| TOTAL THIS MONTH  | 200 |
+| --- | --- |
+| PREVIOUS MONTH  | 138 |
+
+![]({{ "/images/may2018/knockback.jpg" }})  
+
+<br/>
+<br/>
+
+# Script Changes for April
+
+There have been drastic changes to the interface for the Hotkey. From a general visual upgrade but also some UX changes to make navigating the Hotkey a little easier. Here is what the current version of the Hotkey looks like:
+
+Support Tab | Loyalty Tab
+![]({{ "/images/may2018/change1.png" }}) | ![]({{ "/images/may2018/change2.png" }})
+
+This month also saw the addition of a template for sending off Remote Updates to stores. Rarely done, but now we can appropriatly log it using the Hotkey. 
+
+A bar graph has also been added to the Hotkey which shows the current weekly total for points earned. This is a button on the Main Menu labled "Staff Points", and it looks like this:
+
+![]({{ "/images/may2018/change3.png" }})
+
+There were also a large amount of background changes to the code that wouldn't be all that noticeable. Mostly cleaning up for easier maintenance and an easier way to add and remove sections.
+
+Other than various bug fixes and general improvements, that does it for April changes.

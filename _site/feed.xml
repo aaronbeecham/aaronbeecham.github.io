@@ -1,4 +1,264 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2018-05-31T16:16:25+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><author><name>Aaron Beecham</name></author><entry><title type="html">APRIL 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/april.html" rel="alternate" type="text/html" title="APRIL 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/april</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/april.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2018-06-01T10:09:36+10:00</updated><id>http://localhost:4000/</id><title type="html">SCRIPT REPORT</title><subtitle>Intellipharm script monthly data report.</subtitle><author><name>Aaron Beecham</name></author><entry><title type="html">MAY 2018</title><link href="http://localhost:4000/jekyll/update/2018/06/01/may.html" rel="alternate" type="text/html" title="MAY 2018" /><published>2018-06-01T09:00:53+10:00</published><updated>2018-06-01T09:00:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/06/01/may</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/06/01/may.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;installations&quot;&gt;Installations&lt;/h3&gt;
+&lt;p&gt;Installing our software at a newly signed up location.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;49&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;54&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/install.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;data-outage-fixes&quot;&gt;Data Outage Fixes&lt;/h3&gt;
+&lt;p&gt;Fixing a POS or Dispensary reporting related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;330&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/dataout.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qa-checks&quot;&gt;QA Checks&lt;/h3&gt;
+&lt;p&gt;Checking the pharmacy facing website to ensure accurate data is reported.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;57&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;126&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/qa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;general-usage&quot;&gt;General Usage&lt;/h3&gt;
+&lt;p&gt;Non-connection related events, usually used for Support, rather than Loyalty.&lt;br /&gt;This is general administration duties.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;129&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;68&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/general.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;site-cancelations&quot;&gt;Site Cancelations&lt;/h3&gt;
+&lt;p&gt;Store cancelations related to data reporting.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;62&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/cancel.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-installs&quot;&gt;Loyalty Installs&lt;/h3&gt;
+&lt;p&gt;All recorded new installations for Loyalty. &lt;br /&gt;There were 2 Loyalty cancelations recorded this month.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;10&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/loy-in.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-till-outage&quot;&gt;Loyalty Till Outage&lt;/h3&gt;
+&lt;p&gt;Fixing a Loyalty related outage.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;27&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;31&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/loy-out.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-admin&quot;&gt;Loyalty Admin&lt;/h3&gt;
+&lt;p&gt;Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;184&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;105&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/loy-admin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;loyalty-cancelations&quot;&gt;Loyalty Cancelations&lt;/h3&gt;
+&lt;p&gt;Store cancelations related to Loyalty.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;11&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/loy-cancel.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;connections-declined&quot;&gt;Connections Declined&lt;/h3&gt;
+&lt;p&gt;Failure to acquire a connection based on the conversation or technical reasons.&lt;br /&gt;Keep in mind that this would include times when a site is being rescheduled.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;TOTAL THIS MONTH&lt;/th&gt;
+      &lt;th&gt;200&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PREVIOUS MONTH&lt;/td&gt;
+      &lt;td&gt;138&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/knockback.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;script-changes-for-april&quot;&gt;Script Changes for April&lt;/h1&gt;
+
+&lt;p&gt;There have been drastic changes to the interface for the Hotkey. From a general visual upgrade but also some UX changes to make navigating the Hotkey a little easier. Here is what the current version of the Hotkey looks like:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Support Tab&lt;/td&gt;
+      &lt;td&gt;Loyalty Tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/may2018/change1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/images/may2018/change2.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This month also saw the addition of a template for sending off Remote Updates to stores. Rarely done, but now we can appropriatly log it using the Hotkey.&lt;/p&gt;
+
+&lt;p&gt;A bar graph has also been added to the Hotkey which shows the current weekly total for points earned. This is a button on the Main Menu labled “Staff Points”, and it looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/may2018/change3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There were also a large amount of background changes to the code that wouldn’t be all that noticeable. Mostly cleaning up for easier maintenance and an easier way to add and remove sections.&lt;/p&gt;
+
+&lt;p&gt;Other than various bug fixes and general improvements, that does it for April changes.&lt;/p&gt;</content><author><name>Aaron Beecham</name></author><summary type="html">USE COUNT - 802</summary></entry><entry><title type="html">APRIL 2018</title><link href="http://localhost:4000/jekyll/update/2018/05/01/april.html" rel="alternate" type="text/html" title="APRIL 2018" /><published>2018-05-01T11:50:53+10:00</published><updated>2018-05-01T11:50:53+10:00</updated><id>http://localhost:4000/jekyll/update/2018/05/01/april</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/01/april.html">&lt;h3 id=&quot;use-count---802&quot;&gt;USE COUNT - 802&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;

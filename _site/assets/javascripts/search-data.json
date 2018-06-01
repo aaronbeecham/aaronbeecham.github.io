@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"USE COUNT - 802 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 54 PREVIOUS MONTH 83 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 200 PREVIOUS MONTH 172 Loyalty Till Outage Fixing a Loyalty related outage. TOTAL THIS MONTH...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/2018/05/01/april.html"
+      },{
+        "title": "MAY 2018",
+        "excerpt":"USE COUNT - 802 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 49 PREVIOUS MONTH 54 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 330 PREVIOUS MONTH 200 QA Checks Checking the pharmacy facing website to ensure accurate data...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/06/01/may.html"
       }]
