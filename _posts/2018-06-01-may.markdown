@@ -129,7 +129,7 @@ Failure to acquire a connection based on the conversation or technical reasons.<
 <br/>
 <br/>
 
-# Script Changes for April
+# Script Changes for May
 
 There have been drastic changes to the interface for the Hotkey. From a general visual upgrade but also some UX changes to make navigating the Hotkey a little easier. Here is what the current version of the Hotkey looks like:
 

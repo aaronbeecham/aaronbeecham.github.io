@@ -1,14 +1,4 @@
 var store = [{
-        "title": "JANUARY 2017",
-        "excerpt":"GENERAL PREFACE Early on in the development of the script I have kept a log of every use. Initially it was for discovering bugs/issues with the script but a side effect was that I had a record of all uses of the script. Realising this information may be useful I’ve...","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2017/02/21/january.html"
-      },{
-        "title": "FEBRUARY 2017",
-        "excerpt":"GENERAL PREFACE Following on from the report sent through roughly two weeks ago regarding the data collected for January, this report will follow much the same format. One of the main concerns regarding the collected data I had for January was a mislabeling of all Data Outage and Installs under...","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2017/03/01/february.html"
-      },{
         "title": "JANUARY 2018",
         "excerpt":"USE COUNT - 606 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 35 PREVIOUS MONTH 14 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 155 PREVIOUS MONTH 128 Loyalty Till Outage Fixing a Loyalty related outage. TOTAL THIS MONTH...","categories": ["jekyll","update"],
         "tags": [],
@@ -33,4 +23,9 @@ var store = [{
         "excerpt":"USE COUNT - 802 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 49 PREVIOUS MONTH 54 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 330 PREVIOUS MONTH 200 QA Checks Checking the pharmacy facing website to ensure accurate data...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/2018/06/01/may.html"
+      },{
+        "title": "JUNE 2018",
+        "excerpt":"USE COUNT - 1007 Installations Installing our software at a newly signed up location. TOTAL THIS MONTH 35 PREVIOUS MONTH 49 Data Outage Fixes Fixing a POS or Dispensary reporting related outage. TOTAL THIS MONTH 281 PREVIOUS MONTH 330 QA Checks Checking the pharmacy facing website to ensure accurate data...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/update/2018/07/03/june.html"
       }]
