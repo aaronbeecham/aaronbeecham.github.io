@@ -49,7 +49,7 @@ Checking the pharmacy facing website to ensure accurate data is reported.
 <br/>
 
 ### General Usage
-Non-connection related events, usually used for Support, rather than Loyalty.<br>This is general administration duties.
+Non-connection related events, usually used for Support, rather than Loyalty.<br>This is general administration duties.<br>The use of the General tags section should be used as sparingly as possible and **ONLY** for administrative purposes. If your numbers here are high, ensure you are using the templates correctly.
 
 | TOTAL THIS MONTH  | 129 |
 | --- | --- |
