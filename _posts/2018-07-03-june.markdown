@@ -61,7 +61,7 @@ Non-connection related events, usually used for Support, rather than Loyalty.<br
 ### Site Cancelations
 Store cancelations related to data reporting.
 
-| TOTAL THIS MONTH  | 19 |
+| TOTAL THIS MONTH  | 37 |
 | --- | --- |
 | PREVIOUS MONTH  | 62 |
 
