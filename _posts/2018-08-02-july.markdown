@@ -159,4 +159,6 @@ And finally, a change to the Macros screen. It was updated to fit the UI of the 
 
 The Macros here are basically autocorrect functions. Enjoy. 🎉
 
+![](/images/08july2018/change3.png)
+
 That is all for July 2018.
