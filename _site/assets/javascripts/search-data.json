@@ -30,7 +30,7 @@ var store = [{
         "url": "http://localhost:4000/jekyll/update/2018/07/03/june.html"
       },{
         "title": "JULY 2018",
-        "excerpt":"USE COUNT - 1116 Installations This is a count of all the NEW installations done this month. TOTAL THIS MONTH 37 PREVIOUS MONTH 49 Data Outage Fixes The number of fixes completed for a POS or Dispensary related outage. TOTAL THIS MONTH 255 PREVIOUS MONTH 330 QA Checks Checking the...","categories": ["jekyll","update"],
+        "excerpt":"USE COUNT - 1116 Count of submissions used through the Hotkey for all activities. Installations This is a count of all the NEW installations done this month. TOTAL THIS MONTH 37 PREVIOUS MONTH 49 Data Outage Fixes The number of fixes completed for a POS or Dispensary related outage. TOTAL...","categories": ["jekyll","update"],
         "tags": [],
         "url": "http://localhost:4000/jekyll/update/2018/08/02/july.html"
       }]
