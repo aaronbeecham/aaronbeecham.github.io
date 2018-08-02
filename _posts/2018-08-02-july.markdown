@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 
 ### USE COUNT - 1116
-Count of submissions used through the Hotkey for all activities.
 
 <br/>
 <br/>
