@@ -90,7 +90,7 @@ All recorded new installations for Loyalty.
 
 ### Loyalty Till Outage
 Fixing a Loyalty related outage.<br/>
-*Keep in mind that the majority or these outage fixes are due to the Loyalty Prompter update that has been occuring this month.*
+*Keep in mind that the majority of these outage fixes are due to the Loyalty Prompter update that has been occuring this month.*
 
 | TOTAL THIS MONTH  | 143 |
 | --- | --- |
@@ -147,7 +147,7 @@ And let's just say, that point screen was well used...
 
 As for other changes, there have been a few minor ones to help with usability. A small change was made for when you do not have access to G drive. An error message will now appear when you attempt to open the Hotkey if you have no connection to G.
 
-A settings menu has been added as a replacement to the about screen. The about screen is gone now and the PGUP fuction completely removed. The settings screen has minor options to set as you desire. This is where you ensure your name is entered correctly. Also patch notes are listed here.
+A settings menu has been added as a replacement to the about screen. The about screen is gone now and the PGUP function completely removed. The settings screen has minor options to set as you desire. This is where you ensure your name is entered correctly. Also patch notes are listed here.
 
 ![](/images/08july2018/change1.png)
 
