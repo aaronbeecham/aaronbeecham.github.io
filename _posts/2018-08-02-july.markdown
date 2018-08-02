@@ -1,0 +1,161 @@
+---
+layout: post
+title:  "JULY 2018"
+date:   2018-08-02 09:00:53 +1000
+categories: jekyll update
+---
+
+### USE COUNT - 1116
+
+<br/>
+<br/>
+
+### Installations
+This is a count of all the NEW installations done this month.
+
+
+| TOTAL THIS MONTH  | 37 |
+| --- | --- |
+| PREVIOUS MONTH  | 49 |
+
+![](/images/08july2018/install.png)  
+
+<br/>
+<br/>
+
+### Data Outage Fixes
+The number of fixes completed for a POS or Dispensary related outage.
+
+| TOTAL THIS MONTH  | 255 |
+| --- | --- |
+| PREVIOUS MONTH  | 330 |
+
+![](/images/08july2018/dataout.png)  
+
+<br/>
+<br/>
+
+### QA Checks
+Checking the pharmacy facing website to ensure accurate data is reported.
+
+| TOTAL THIS MONTH  | 65 |
+| --- | --- |
+| PREVIOUS MONTH  | 57 |
+
+![](/images/08july2018/qa.png)  
+
+<br/>
+<br/>
+
+### General Usage
+Non-connection related events, usually used for Support, rather than Loyalty.<br>This is general administration duties.
+
+| TOTAL THIS MONTH  | 129 |
+| --- | --- |
+| PREVIOUS MONTH  | 129 |
+
+![](/images/08july2018/general.png)  
+
+<br/>
+<br/>
+
+### Site Cancelations
+Store cancelations related to data reporting.
+
+| TOTAL THIS MONTH  | 38 |
+| --- | --- |
+| PREVIOUS MONTH  | 62 |
+
+![](/images/08july2018/cancel.png)  
+
+<br/>
+<br/>
+
+### Loyalty Installs 
+All recorded new installations for Loyalty.
+
+*I have no recorded Loyalty Installations for the month of July. This, again, seems highly unlikely, so I believe the reason there are no recorded installs is because whoever did do the installs has failed to record them correctly.*
+
+*This is the second month in a row without a single recorded Loyalty Installation*
+
+| TOTAL THIS MONTH  | 0 |
+| --- | --- |
+| PREVIOUS MONTH  | 0 |
+
+![](/images/08july2018/loy-in.png)
+
+<br/>
+<br/>
+
+### Loyalty Till Outage
+Fixing a Loyalty related outage.<br/>
+*Keep in mind that the majority or these outage fixes are due to the Loyalty Prompter update that has been occuring this month.*
+
+| TOTAL THIS MONTH  | 143 |
+| --- | --- |
+| PREVIOUS MONTH  | 27 |
+
+![](/images/08july2018/loy-tillconfig.png) 
+
+<br/>
+<br/>
+
+### Loyalty Admin
+Loyalty related interactions. Not necessarily installs or fixes. General Loyalty help.<br/>Usually related to incoming calls.
+
+| TOTAL THIS MONTH  | 137 |
+| --- | --- |
+| PREVIOUS MONTH  | 184 |
+
+![](/images/08july2018/loy-admin.png)  
+
+<br/>
+<br/>
+
+### Loyalty Cancelations
+Store cancelations related to Loyalty.
+
+| TOTAL THIS MONTH  | 7 |
+| --- | --- |
+| PREVIOUS MONTH  | 11 |
+
+![](/images/08july2018/loy-cancel.png)  
+
+<br/>
+<br/>
+
+### Connections Declined
+Failure to acquire a connection based on the conversation or technical reasons.<br/>Keep in mind that this would include times when a site is being rescheduled.
+
+| TOTAL THIS MONTH  | 173 |
+| --- | --- |
+| PREVIOUS MONTH  | 200 |
+
+![](/images/08july2018/knockback.png)  
+
+<br/>
+<br/>
+
+# Script Changes for July
+
+First major changes to the script were clearly the introduction of **Matt** and **Jay** to the points screen. Welcome **Matt** and **Jay**! 😁
+
+And let's just say, that point screen was well used...
+
+![](/images/08july2018/change0.png)
+
+As for other changes, there have been a few minor ones to help with usability. A small change was made for when you do not have access to G drive. An error message will now appear when you attempt to open the Hotkey if you have no connection to G.
+
+A settings menu has been added as a replacement to the about screen. The about screen is gone now and the PGUP fuction completely removed. The settings screen has minor options to set as you desire. This is where you ensure your name is entered correctly. Also patch notes are listed here.
+
+![](/images/08july2018/change1.png)
+
+You can make the Hotkey always show on top of other windows here if you prefer. You can also have the Hotkey open on the Loyalty or Support tab by default with the options here as well. There is also a Manual Update option here that can be run any time you need.
+
+![](/images/08july2018/change2.png)
+
+And finally, a change to the Macros screen. It was updated to fit the UI of the current Hotkey design. A description was also added to the top to help explain what this is used for. 
+
+The Macros here are basically autocorrect functions. Enjoy. 🎉
+
+That is all for July 2018.
